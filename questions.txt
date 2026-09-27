@@ -1,6 +1,6 @@
 # make questions as not just string but id like leetcode based object which have metadata like tags.
 
-1. Implement LRU cache? Where and why is it used? Tags - LRU, cache, eviction strategy
+1. Implement LRU cache? Where and why is it used? How @lru_cache works in python? Tags - LRU, cache, eviction strategy
 2. Why newer Fastapi setup prefer LRU as object fetcher than singleton? Tags - LRU, FastAPI, singleton
 3. How DNS works? Tags - DNS, domain
 4. How geoDNS routing works? Tags - geolocation, DNS, geoDNS
@@ -36,3 +36,4 @@
 34. What is an SLA?
 35. What are sizes of python datatypes? Check typical sizes in bytes based on different lengths of datatypes
 36. What are sizes of java datatypes? Check typical sizes in bytes based on different lengths of datatypes
+37. Why recursion stack cannot be big, but normal stack or memorization or tabulation can be big?
