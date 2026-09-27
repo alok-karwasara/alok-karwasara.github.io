@@ -1,2 +1,27 @@
-1. Implement LRU cache? Where and why is it used? 
-2. Why newer Fast api setup prefer LRU as object fetcher than singleton?
+# make questions as not just string but id like leetcode based object which have metadata like tags.
+
+1. Implement LRU cache? Where and why is it used? Tags - LRU, cache, eviction strategy
+2. Why newer Fastapi setup prefer LRU as object fetcher than singleton? Tags - LRU, FastAPI, singleton
+3. How DNS works? Tags - DNS, domain
+4. How geoDNS routing works? Tags - geolocation, DNS, geoDNS
+5. How data replication works across servers, replicas, data centers? What if one fails before backing up some data? How to minimise this? Tags - data center, replica, backuo
+6. What are message queues? Why are they needed? Tags - message, queue, publisher, producer, subscrber, consumer
+7. How message queue differs from polling? Tags - message, queue, publisher, producer, subscrber, consumer, polling
+8. How message queues differ from message streams? Tags - message, queue, publisher, producer, subscrber, consumer, polling, kafka, redis queue, eventhub, service bus
+9. In a pub-sub model, when do we need to scale up the subscribers?
+10. What are the metrics one should keep to track large system's health?
+11. What is CI/CD?
+12. Implement CI/CD on some service provider.
+13. What are the best practices and stages/steps to keep in a good CI/CD pipeline?
+14. How to scale a SQL db?
+15. How to scale a NoSQL db?
+16. What is sharding? Implement it in postgres.
+17. How sharding works? And how a query work with shards? How indexes work with shards? Try querying and indexing 
+18. How to keep the hashing consistent for increasing/decreasing shards? Try this yourself too
+19. What is hashing? Review multiple types of hashing, their pros, cons, limitations, and usages. Implement some.
+20. What is consistent hashing? Try this yourself too
+21. What is a sharding key/partition key? How should be decide a sharding key?
+22. What is a sharding function? Why do we need to change our sharding functions for consistency?
+23. What is the celebrity problem or hotspot key problem in shards? What is the solution?
+24. What are the pros and cons of sharding?
+25. What is normalisation and de-normalisation in SQL dbs? Implement in postgres
