@@ -1,0 +1,2 @@
+1. Implement LRU cache? Where and why is it used? 
+2. Why newer Fast api setup prefer LRU as object fetcher than singleton?
