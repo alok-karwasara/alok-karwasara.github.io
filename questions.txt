@@ -25,3 +25,14 @@
 23. What is the celebrity problem or hotspot key problem in shards? What is the solution?
 24. What are the pros and cons of sharding?
 25. What is normalisation and de-normalisation in SQL dbs? Implement in postgres
+26.What is a back-of-the-envelope estimation? Practice so e for problems 
+27. What are the caching levels like L1, L2?
+28. What are the typical latency numbers for various computer operations?
+29. Why is memory faster than disk?
+30. How memory read/write differs from disk read/writes?
+31. What are compression algorithms? Implement and Review some, their pro, cons, speed, usages.
+32. What is Gzip middleware, and how does it work? Implement in fastapi
+33. What are typical availability numbers or uptime numbers?
+34. What is an SLA?
+35. What are sizes of python datatypes? Check typical sizes in bytes based on different lengths of datatypes
+36. What are sizes of java datatypes? Check typical sizes in bytes based on different lengths of datatypes
