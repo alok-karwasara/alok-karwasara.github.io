@@ -1,3 +1,4 @@
+
 # make questions as not just string but id like leetcode based object which have metadata like tags.
 
 1. Implement LRU cache? Where and why is it used? How @lru_cache works in python? Tags - LRU, cache, eviction strategy
@@ -37,3 +38,12 @@
 35. What are sizes of python datatypes? Check typical sizes in bytes based on different lengths of datatypes
 36. What are sizes of java datatypes? Check typical sizes in bytes based on different lengths of datatypes
 37. Why recursion stack cannot be big, but normal stack or memorization or tabulation can be big?
+38. What is a distibuted system?
+39. Implement rate limiter. Can Rate limiting not be setup on nginx, if yes how? Implement 
+40. Why do we need a rate limiter?
+41. Review several rate limiting algos? Implement 
+42. What is a token bucket rate limiter? Implement 
+43. What is a leaking bucket rate limiter? Implement 
+44. What is a fixed window counter rate limiter? Implement 
+45. What is a sliding window log rate limiter? Implement 
+46. What is a sliding window counter rate limiter? Implement
