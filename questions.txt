@@ -47,3 +47,13 @@
 44. What is a fixed window counter rate limiter? Implement 
 45. What is a sliding window log rate limiter? Implement 
 46. What is a sliding window counter rate limiter? Implement
+47. Implement rate limit in redis. Which algo for rate limiting would it be?
+48. What's race condition? Example some distributed systems that faces this and how do they resolve it?
+49. How Lua Script helps in preventing race condition in rate limiter?
+50. How sorted sets data structure helps prevent race condition in rate limiter?
+51. What are different data structures of redis? Review their pros, cons, usages. Try all
+52. What are edge servers?
+53. What is the rehasing problem? How is it solved? Recreate and solve
+54. What is consistent hashing? Why is it needed? Implement 
+55. What are pros and cons of consistent hashing? What can be used solve the issues with consistent hashing?
+56. What are virtual nodes? How do they solve issues with consistent hashing?
