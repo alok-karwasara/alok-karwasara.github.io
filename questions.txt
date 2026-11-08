@@ -57,3 +57,7 @@
 54. What is consistent hashing? Why is it needed? Implement 
 55. What are pros and cons of consistent hashing? What can be used solve the issues with consistent hashing?
 56. What are virtual nodes? How do they solve issues with consistent hashing?
+57. How postgres implements it's functions?
+58. How postgres implements unique?
+59. How does postgres implement auto increment?
+60. How does postgres indexing work?
